@@ -1,0 +1,72 @@
+body {
+	background: url(fundo.png);
+}
+
+#capa {
+	margin-left: 500px;
+}
+
+#menu {
+	background: #c5c5b2;
+	padding: 20px;
+	}
+
+	a {
+		text-decoration: none;
+		color: #4b566a;
+		font-weight: bold;
+
+	}
+
+	.biografia {
+		background: #e8e8d9;
+		font-family:Sans-serif;
+		padding: 10px;
+		margin: 5px;
+	}
+
+	#conteudo {
+		background: #e8e8d9;
+		font-family:Sans-serif;
+		width: 900px;
+	}
+
+	.rodape {
+		background:#c5c5b2;
+		text-align: center;
+		padding: 20px;
+		font-weight: bold;
+		font-size: 25px;
+		color: #4b566a;
+	}
+
+	.foto1 {
+		position: absolute;
+		right: 640px;
+		top: 460px;
+
+	}
+
+	.foto2 {
+		position: absolute;
+		right: 500px;
+		top: 500px;
+	}
+
+	.foto3 {
+		position: absolute;
+		right: 340px;
+		top: 550px;
+	}
+
+	.fotos {
+		border:groove;
+		border-width: 10px;
+		border-color: #c5c5b2;
+
+	}
+
+	#contato {
+		background: #e8e8d9;
+		padding: 10px;
+	}
